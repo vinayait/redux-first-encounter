@@ -1,0 +1,22 @@
+{
+  "color": "#0eAF45",
+  "text": "This is my store",
+  "shoebrand": "Nike",
+  "comments": [
+    {
+      "user": "vinay",
+      "text": "This is easy"
+    },
+    {
+      "user": "tom",
+      "text": "easy peesy lemon squeezy"
+    }
+  ],
+  "buttonColors": {
+    "btn1": "green",
+    "btn2": "green",
+    "btn3": "green",
+    "btn4": "green"
+  },
+  "currentSlide": "/staticcontent/images/damposcillations.png"
+}
